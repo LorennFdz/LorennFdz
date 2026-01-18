@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Lorenzo Fernandez Banner" width="100%">
+  <img src="banner-github.png" alt="Lorenzo Fernandez Banner" width="100%">
 </p>
 
 # ¡Hola! Soy Lorenzo Fernández 👋
