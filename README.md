@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Lorenzo Fernandez Banner" width="100%">
+</p>
+
 # ¡Hola! Soy Lorenzo Fernández 👋
 
 ### 👨‍💻 Desarrollador de Software | Técnico Universitario en Desarrollo de Aplicaciones Informáticas (UNICEN)
